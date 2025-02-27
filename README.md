@@ -7,3 +7,4 @@ This repo contains my solutions of leet code problems, these are all the problem
 006. Counting Words With a Given Prefix.  
 007. Two Sum.  
 008. Valid Anagram.  
+009. Valid Parentheses.  
