@@ -9,3 +9,4 @@ This repo contains my solutions of leet code problems, these are all the problem
 008. Valid Anagram.  
 009. Valid Parentheses.  
 010. Reverse Integer.  
+011. String To Integer (atoi).  
