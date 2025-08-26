@@ -11,3 +11,4 @@ This repo contains my solutions of leet code problems, these are all the problem
 010. Reverse Integer.  
 011. String To Integer (atoi).  
 012. Number of Zero-Filled Subarrays.  
+013. Maximum Area of Longest Diagonal Rectangle.  
