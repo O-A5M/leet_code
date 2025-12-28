@@ -19,4 +19,5 @@ This repo contains my solutions of leet code problems, these are all the problem
 018. Linked List Cycle.  
 019. Fizz Buzz.  
 020. Remove Duplicates from Sorted List.  
-021. Count Negative Numbers in a Sorted Matrix.  
+021. Apple Redistribution into Boxes.  
+022. Count Negative Numbers in a Sorted Matrix.  
