@@ -21,3 +21,4 @@ This repo contains my solutions of leet code problems, these are all the problem
 020. Remove Duplicates from Sorted List.  
 021. Apple Redistribution into Boxes.  
 022. Count Negative Numbers in a Sorted Matrix.  
+023. Single Number.  
